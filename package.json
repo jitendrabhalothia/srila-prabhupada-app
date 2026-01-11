@@ -1,0 +1,12 @@
+{
+  "name": "srila-prabhupada-app",
+  "version": "1.0.0",
+  "description": "A simple app dedicated to Srila Prabhupada",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
